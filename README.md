@@ -1,6 +1,8 @@
-## Knapsack
+# Knapsack
 
-# Download data
+Download data
 Link: https://github.com/likr/kplib
 
-# Run knapsack
+Run knapsack
+Step 1: 
+'''bash
